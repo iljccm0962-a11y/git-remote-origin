@@ -1,2 +1,2 @@
-# git-remote-origin
+# careit
 원격저장소
